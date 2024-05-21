@@ -19,8 +19,10 @@ comments: true
 
 <br>
 <br>
+<p>
     <div style="text-align: center">Seattle, WA | eunicek2468@gmail.com | http://www.linkedin.com/in/eunice-kb2468/</div>
 
+</p>
 <br>
 
 ## Related technical skills
