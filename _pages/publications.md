@@ -23,7 +23,7 @@ comments: true
     <details>
         <summary>Abstract and key graphics</summary>
         <h3>Key graphics</h3>
-        <img src="/assets/images/publications/aca_2023.jpg" 
+        <img src="https://github.com/EK-2024/eunicekwon.github.io/blob/master/assets/images/publications/aca_2023.jpg" 
         alt="">
         <h3>Highlights</h3>
         <p>
