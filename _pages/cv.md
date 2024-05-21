@@ -20,11 +20,11 @@ comments: true
 <br>
 <br>
 
-Seattle, WA ● eunicek2468@gmail.com ● http://www.linkedin.com/in/eunice-kb2468/
+Seattle, WA | eunicek2468@gmail.com | http://www.linkedin.com/in/eunice-kb2468/
 
 <br>
 
-## Related technical skil
+## Related technical skills
 - Assay Development
 - *In vitro* Assay
 - Analytical Instruments
@@ -53,7 +53,7 @@ Seattle, WA ● eunicek2468@gmail.com ● http://www.linkedin.com/in/eunice-kb24
 - Plasmid Construction
 - Yeast's Gene-Related Work (Gene Cloning, Transformation, Cre/*loxp* recombination, DNA Isolation)
 
-----
+
 ## Education
 
 **Washington State University (WSU)** – Pullman, WA, U.S.   
@@ -73,11 +73,10 @@ Seattle, WA ● eunicek2468@gmail.com ● http://www.linkedin.com/in/eunice-kb24
 **Seoul Women’s University (SWU)** – Seoul, Korea   
 <div style="text-align: right"> February, 2014 </div>
 
-
 - B.S. in Bio & Environmental Technology (GPA: 3.85 / 4.5)
 - B.S. in Chemistry (2nd major)
 
-----
+
 ## Research Experience
 
 ### University of Washington – Seattle, WA, U.S. 
@@ -144,7 +143,7 @@ intellectual property advancement in the industry landscape
 - Engineered a novel genetic modification strategy integrating the D-lactic acid dehydrogenase gene with Leuconostoc mensenteroides and eliminating by-product genes in S. cerevisiae, resulting in
 enhancing production efficiency up to 0.97 g/(L∙h) productivity 
 
-----
+
 ## Publications 
 Former Korean name: Yoonjung Kwon
 
@@ -182,7 +181,7 @@ Former Korean name: Yoonjung Kwon
     Lee, H. M., Auh, Y. K., and Kim, M. K. (2014) _Hymenobacter swuensis_ sp. _nov._ , a Gamma-
     Radiation-Resistant Bacteria Isolated from Mountain Soil, _Current Microbiology_ 68: 305- 310
 
-----
+
 ## Presentations
 
 - **Kwon, E. Y.**, Kim, J., Lawrence, D.S, and Allbritton, N. L. “Development of a lipid-conjugated
@@ -217,7 +216,7 @@ Former Korean name: Yoonjung Kwon
     international symposium of The Korean Society for Biotechnology and Bioengineering (KSBB)
     (Songdo, Korea, October 2015) **(Best Poster Awards)**
 
-----
+
 ## Korean Patents 
 Translated from Korean to English by Google Patents, Former Korean name: Yoonjung Kwon
 - **KR101914344B1**, “A moisturizing and anti-wrinkle cosmetic composition comprising fermented
@@ -232,7 +231,8 @@ Translated from Korean to English by Google Patents, Former Korean name: Yoonjun
     producing target materials using the same,” one of the inventors
 - **KR102078715B1**, “Transformed microorganism with enhanced productivity of lactic acid,” one of
     the inventors
-----
+
+
 ## Teaching Experiences
 - Teaching Assistant
     - CHE 201 Chemical Process Principles and Calculations: Teach weekly recitation class for 77 students 
@@ -241,7 +241,7 @@ Translated from Korean to English by Google Patents, Former Korean name: Yoonjun
 - Mentoring   
     - An undergraduate student of the NSF/WSU Research Experience for Undergraduates (REU) program *(Summer 2019)* 
 
-----
+
 ## Volunteer & Leadership experiences
 
 - **Peer Mentor** Program of International Program at WSU
@@ -262,7 +262,7 @@ and encourages small actions that students can put into practice.
 - **Manager** of the student council of Bio & Environmental Technology at SWU.  
 *(Spring and Fall 2010)*
 
-----
+
 ## Awards
 
 
@@ -271,7 +271,7 @@ and encourages small actions that students can put into practice.
 - Women in Chemical Engineering (WIC) Travel Award at the AIChE (2020)
 - Best poster awards at the KSBB (2015)
 
-----
+
 ## Scholarships
 
 - Melvin and Ruth Smith Scholarship (Spring and Fall 2021)
@@ -282,7 +282,7 @@ and encourages small actions that students can put into practice.
 - Scholarship for Excelling in Foreign Language (Fall 2010)
 - Academic Achievement Grant (Fall 2009 and 2010)
 
-----
+
 ## Certificates
 
 - Introduction to R: Basic R syntax (December 2023) https://coursera.org/verify/9VS4NFFESU
