@@ -8,7 +8,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-#gem "jekyll", "~> 3.8.3"
+gem "jekyll", "~> 4.2"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 #gem "minima", "~> 2.0"
@@ -19,9 +19,9 @@ gem "minimal-mistakes-jekyll"
 gem "github-pages", group: :jekyll_plugins
 
 # If you have any plugins, put them here!
-group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.6"
-end
+# group :jekyll_plugins do
+#   gem "jekyll-feed", "~> 0.6"
+# end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
@@ -34,7 +34,7 @@ gem 'jekyll-include-cache'
 
 # added on 14/10/2018
 # https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/installation.md
-gem 'jekyll-seo-tag'
+# gem 'jekyll-seo-tag'
 
 # Error: 2020-01-19
 # https://talk.jekyllrb.com/t/error-repo-pages-info-and-connectionfailed-in-layouts-default-html/3793
@@ -55,3 +55,9 @@ gem 'jekyll-seo-tag'
 # jekyll 3.8.5 | Error:  uninitialized constant Faraday::Error::ConnectionFailed
 # Did you mean?  Faraday::ConnectionFailed
 gem "faraday", "< 1.0"
+
+# (doojung) added on May, 2024
+# https://jekyllrb.com/docs/continuous-integration/github-actions/
+group :jekyll_plugins do
+  gem "jekyll-timeago", "~> 0.13.1"
+end
