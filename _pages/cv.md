@@ -18,12 +18,11 @@ comments: true
 <br>
 <br>
 
-## Curriculum Vitae
 
 ```
 Seattle, WA ● eunicek2468@gmail.com ● http://www.linkedin.com/in/eunice-kb2468/
 ```
-### Related technical skil
+## Related technical skil
 - Assay Development
 - *In vitro* Assay
 - Analytical Instruments
@@ -53,32 +52,36 @@ Seattle, WA ● eunicek2468@gmail.com ● http://www.linkedin.com/in/eunice-kb24
 - Yeast's Gene-Related Work (Gene Cloning, Transformation, Cre/*loxp* recombination, DNA Isolation)
 
 ----
-### Education
+## Education
 
 **Washington State University (WSU)** – Pullman, WA, U.S.   
-May, 2022
+<div style="text-align: right"> May, 2022 </div>
+
 
 - Ph.D. in Chemical Engineering (GPA: 3.87 / 4.0)
 - Title of thesis: Development of rapid and effective nanoparticle-amplified immunoassays to detect target analytes
 
 **Seoul National University (SNU)** – Seoul, Korea  
-February, 2016
+<div style="text-align: right"> February, 2016 </div>
+
 
 - M.S. in Chemical and Biological Engineering (GPA: 3.52 / 4.3)
 - Title of thesis: Adaptive evolution for efficient production of D-lactic acid in Saccharomyces cerevisiae
 
 **Seoul Women’s University (SWU)** – Seoul, Korea   
-February, 2014
+<div style="text-align: right"> February, 2014 </div>
+
 
 - B.S. in Bio & Environmental Technology (GPA: 3.85 / 4.5)
 - B.S. in Chemistry (2nd major)
 
 ----
-### Research Experience
+## Research Experience
 
-#### University of Washington – Seattle, WA, U.S. 
-February 2022 – Present  
-*Postdoctoral researcher*
+### University of Washington – Seattle, WA, U.S. 
+<div style="text-align: right"> February 2022 – Present </div>  
+<div style="text-align: right"> <i>Postdoctoral researcher</i> </div>  
+
 
 - **One related publication in preparation and one presentation**
     - Directed a high-impact project focused on quantifying protein kinase B activity in pancreatic
@@ -94,9 +97,10 @@ February 2022 – Present
     chromatography, microfluidic thin-layer chromatographic-like chip, and CE with a laser-induced
     fluorescent detection method
 
-#### Washington State University – Pullman, WA, U.S. 
-May 2018 – January 2022  
-*Graduate Research Assistant*
+### Washington State University – Pullman, WA, U.S. 
+  
+<div style="text-align: right"> May 2018 – January 2022 </div>
+<div style="text-align: right"> <i>Graduate Research Assistant</i> </div>
 
  - **Four related publications (two 1st author publications and one 1st co-author publication), two
 related publications in preparation, and seven presentations**
@@ -105,9 +109,9 @@ related publications in preparation, and seven presentations**
     - Spearheaded the development of two innovative immunoassay approaches, quantifying small molecules to large molecules, leading to the publication of 3 1st-author manuscripts, showcasing collaborative leadership in research projects
     - Presented 7 research projects at the conferences, earning the Honorable Mentioned Student Award in the Environmental Sensors Session of the American Institute of Chemical Engineers (AIChE) 2020 annual meeting, showcasing expertise in innovative sensor technologies and chemical engineering advancements
 
-#### The Garden of NaturalSolution – Osan, Korea 
-August 2016 – March 2018  
-*Research Scientist*
+### The Garden of NaturalSolution – Osan, Korea 
+<div style="text-align: right"> August 2016 – March 2018 </div>
+<div style="text-align: right"> <i>Research Scientist</i> </div>
 
 - **Two related Korean patents**
     - Developed unique fermentation processes for natural ingredients, leading to a 20 – 30 % boost in
@@ -129,9 +133,9 @@ August 2016 – March 2018
     securing 2 Korean patents; pivotal in facilitating strategic decision-making and driving
     intellectual property advancement in the industry landscape
 
-#### Seoul National University – Seoul, Korea 
-January 2014 – February 2016
-*Master’s Student*
+### Seoul National University – Seoul, Korea 
+<div style="text-align: right"> January 2014 – February 2016 </div>
+<div style="text-align: right"> Master’s Student</div>
 
  - **Three related publications, one presentation, and three related Korean patents**
 - Researched the adaptive evolution strategy, elevating D-lactic acid levels in media, culminating in a 40% boost in D-lactic acid production levels, a significant 30% increase in glucose consumption levels, and a meaningful 50% decrease in ethanol (byproduct) production levels in Saccharomyces cerevisiae
@@ -139,7 +143,7 @@ January 2014 – February 2016
 enhancing production efficiency up to 0.97 g/(L∙h) productivity 
 
 ----
-### Publications 
+## Publications 
 Former Korean name: Yoonjung Kwon
 
 - **Kwon, E. Y.,** Yao, M., Kim, J., Wang, Y., Lawrence, D.S, and Allbritton, N. L. (2024) A Picoliter Thin-layer Chromatography Platform to Separate a Lipid-conjugated Peptides in a Single Pancreatic Cancer Cell (In Preparation to submit to Analytical Chemistry)
@@ -177,7 +181,7 @@ Former Korean name: Yoonjung Kwon
     Radiation-Resistant Bacteria Isolated from Mountain Soil, _Current Microbiology_ 68: 305- 310
 
 ----
-### Presentations
+## Presentations
 
 - **Kwon, E. Y.**, Kim, J., Lawrence, D.S, and Allbritton, N. L. “Development of a lipid-conjugated
     substrate to measure the activity of protein kinase B in single cells by capillary electrophoresis,”
@@ -212,7 +216,7 @@ Former Korean name: Yoonjung Kwon
     (Songdo, Korea, October 2015) **(Best Poster Awards)**
 
 ----
-### Korean Patents 
+## Korean Patents 
 Translated from Korean to English by Google Patents, Former Korean name: Yoonjung Kwon
 - **KR101914344B1**, “A moisturizing and anti-wrinkle cosmetic composition comprising fermented
     barley, fermented pear juice, fermented soybeans and fermented pomegranate extract and the
@@ -227,7 +231,7 @@ Translated from Korean to English by Google Patents, Former Korean name: Yoonjun
 - **KR102078715B1**, “Transformed microorganism with enhanced productivity of lactic acid,” one of
     the inventors
 ----
-### Teaching Experiences
+## Teaching Experiences
 - Teaching Assistant
     - CHE 201 Chemical Process Principles and Calculations: Teach weekly recitation class for 77 students 
         *(Fall 2021)*
@@ -236,7 +240,7 @@ Translated from Korean to English by Google Patents, Former Korean name: Yoonjun
     - An undergraduate student of the NSF/WSU Research Experience for Undergraduates (REU) program *(Summer 2019)* 
 
 ----
-### Volunteer & Leadership experiences
+## Volunteer & Leadership experiences
 
 - **Peer Mentor** Program of International Program at WSU
 Assist new international students during their transition to WSU and the US by connecting them to useful resources.  
@@ -257,7 +261,7 @@ and encourages small actions that students can put into practice.
 *(Spring and Fall 2010)*
 
 ----
-### Awards
+## Awards
 
 
 - Honourable mentioned the student award at the Student Competition in Environmental Sensors
@@ -266,7 +270,7 @@ and encourages small actions that students can put into practice.
 - Best poster awards at the KSBB (2015)
 
 ----
-### Scholarships
+## Scholarships
 
 - Melvin and Ruth Smith Scholarship (Spring and Fall 2021)
 - NASA Space Grant Fellowship in Science and Engineering (Spring 2019)
@@ -277,7 +281,7 @@ and encourages small actions that students can put into practice.
 - Academic Achievement Grant (Fall 2009 and 2010)
 
 ----
-### Certificates
+## Certificates
 
 - Introduction to R: Basic R syntax (December 2023) https://coursera.org/verify/9VS4NFFESU
 - Getting Started with R studio (December 2023) https://coursera.org/verify/YK23U3M4UA8Q
