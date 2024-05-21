@@ -1,7 +1,7 @@
 ---
 title:  "Publications"
 layout: single
-permalink: /eunicekwon.github.io/publications/
+permalink: /publications/
 author_profile: false
 comments: true
 ---

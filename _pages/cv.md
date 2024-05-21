@@ -1,7 +1,7 @@
 ---
 title:  "Curriculum Vitae"
 layout: single
-permalink: /eunicekwon.github.io/CV/
+permalink: /CV/
 author_profile: false
 comments: true
 ---
