@@ -20,7 +20,7 @@ comments: true
 <br>
 <br>
 
-Seattle, WA | eunicek2468@gmail.com | http://www.linkedin.com/in/eunice-kb2468/
+Seattle, WA \| eunicek2468@gmail.com \| http://www.linkedin.com/in/eunice-kb2468/
 
 <br>
 
