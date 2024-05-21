@@ -12,7 +12,7 @@ comments: true
 </head>
 
 <body>
-    <embed src="/assets/files/CV_Eunice_Kwon_May.pdf" 
+    <embed src="/eunicekwon.github.io/assets/files/CV_Eunice_Kwon_May.pdf" 
         width="500" 
         height="375" 
         type="application/pdf">
