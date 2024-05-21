@@ -23,7 +23,7 @@ comments: true
     <details>
         <summary>Abstract and key graphics</summary>
         <h3>Key graphics</h3>
-        <img src="/assets/images/publications/aca_2023.jpg" alt="">
+        <img src="/eunicekwon.github.io/assets/images/publications/aca_2023.jpg" alt="">
         <h3>Highlights</h3>
         <p>
             <ul>
@@ -44,7 +44,7 @@ comments: true
     <details>
         <summary>Abstract and key graphics</summary>
         <h3>Key graphics</h3>
-        <img src="/assets/images/publications/fc_2023.png" alt="">
+        <img src="/eunicekwon.github.io/assets/images/publications/fc_2023.png" alt="">
         <h3>Highlights</h3>
         <p>
             <ul>
@@ -67,7 +67,7 @@ Atrazine and Acetochlor](https://www.sciencedirect.com/science/article/abs/pii/S
     <details>
         <summary>Abstract and key graphics</summary>
         <h3>Key graphics</h3>
-        <img src="/assets/images/publications/bb_2021.png" alt="">
+        <img src="/eunicekwon.github.io/assets/images/publications/bb_2021.png" alt="">
         <h3>Highlights</h3>
         <p>
             <ul>
@@ -88,7 +88,7 @@ Atrazine and Acetochlor](https://www.sciencedirect.com/science/article/abs/pii/S
     <details>
         <summary>Abstract and key graphics</summary>
         <h3>Key graphics</h3>
-        <img src="/assets/images/publications/aca_2020.jpg" alt="">
+        <img src="/eunicekwon.github.io/assets/images/publications/aca_2020.jpg" alt="">
         <h3>Highlights</h3>
         <p>
             <ul>
