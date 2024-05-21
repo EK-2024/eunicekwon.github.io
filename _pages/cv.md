@@ -20,8 +20,6 @@ comments: true
 <br>
 <br>
     <div style="text-align: center">Seattle, WA | eunicek2468@gmail.com | http://www.linkedin.com/in/eunice-kb2468/</div>
-    </a>
-
 
 <br>
 
