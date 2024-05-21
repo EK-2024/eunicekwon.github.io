@@ -54,7 +54,7 @@ gem 'jekyll-include-cache'
 #   Liquid Exception: uninitialized constant Faraday::Error::ConnectionFailed Did you mean? Faraday::ConnectionFailed in /_layouts/default.html
 # jekyll 3.8.5 | Error:  uninitialized constant Faraday::Error::ConnectionFailed
 # Did you mean?  Faraday::ConnectionFailed
-gem "faraday", "< 1.0"
+# gem "faraday", "~> 2.0"
 
 # (doojung) added on May, 2024
 # https://jekyllrb.com/docs/continuous-integration/github-actions/
