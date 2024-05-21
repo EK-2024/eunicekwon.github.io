@@ -12,16 +12,18 @@ comments: true
 </head>
 
 <body>
-    <a href="/eunicekwon.github.io/assets/files/CV_Eunice_Kwon_May.pdf" download>Download</a>
+    <a href="/eunicekwon.github.io/assets/files/CV_Eunice_Kwon_May.pdf" download>
+    <div style="text-align: center">Download</div>
+    </a>
 </body>
 
 <br>
 <br>
 
-
-```
 Seattle, WA ● eunicek2468@gmail.com ● http://www.linkedin.com/in/eunice-kb2468/
-```
+
+<br>
+
 ## Related technical skil
 - Assay Development
 - *In vitro* Assay
@@ -84,18 +86,18 @@ Seattle, WA ● eunicek2468@gmail.com ● http://www.linkedin.com/in/eunice-kb24
 
 
 - **One related publication in preparation and one presentation**
-    - Directed a high-impact project focused on quantifying protein kinase B activity in pancreatic
-    cancer single cells, employing advanced molecular and cellular biology techniques, unveiling
-    critical insights for developing targeted therapies in precision oncology
-    - Refined protocols and conditions of assays to perform the assays including in vitro kinase assay
-    and BCA assay in the current lab environment, resulting in a 20% increase in reproducibility
-    - Managed and conducted analytical experiments with mass spectrometry (MALDI-TOF), LC-MS
-    (ESI-Ion Trap), and capillary electrophoresis (CE), illustrating expertise in utilizing and
-    troubleshooting advanced analytical instrumentation
-    - Formulated and implemented a rigorous experimental plan to optimize analytical experiment
-    parameters, separating target analytes, fluorescein tagged-peptides through thin-layer
-    chromatography, microfluidic thin-layer chromatographic-like chip, and CE with a laser-induced
-    fluorescent detection method
+- Directed a high-impact project focused on quantifying protein kinase B activity in pancreatic
+cancer single cells, employing advanced molecular and cellular biology techniques, unveiling
+critical insights for developing targeted therapies in precision oncology
+- Refined protocols and conditions of assays to perform the assays including in vitro kinase assay
+and BCA assay in the current lab environment, resulting in a 20% increase in reproducibility
+- Managed and conducted analytical experiments with mass spectrometry (MALDI-TOF), LC-MS
+(ESI-Ion Trap), and capillary electrophoresis (CE), illustrating expertise in utilizing and
+troubleshooting advanced analytical instrumentation
+- Formulated and implemented a rigorous experimental plan to optimize analytical experiment
+parameters, separating target analytes, fluorescein tagged-peptides through thin-layer
+chromatography, microfluidic thin-layer chromatographic-like chip, and CE with a laser-induced
+fluorescent detection method
 
 ### Washington State University – Pullman, WA, U.S. 
   
@@ -105,33 +107,33 @@ Seattle, WA ● eunicek2468@gmail.com ● http://www.linkedin.com/in/eunice-kb24
  - **Four related publications (two 1st author publications and one 1st co-author publication), two
 related publications in preparation, and seven presentations**
 
-    - Led projects focusing on assay development, specifically nanoparticle-amplified immunoassays, resulting in 3 1st-author published papers and 7 1st-author presentations; enhanced industry knowledge and advanced scientific understanding through impactful contributions
-    - Spearheaded the development of two innovative immunoassay approaches, quantifying small molecules to large molecules, leading to the publication of 3 1st-author manuscripts, showcasing collaborative leadership in research projects
-    - Presented 7 research projects at the conferences, earning the Honorable Mentioned Student Award in the Environmental Sensors Session of the American Institute of Chemical Engineers (AIChE) 2020 annual meeting, showcasing expertise in innovative sensor technologies and chemical engineering advancements
+- Led projects focusing on assay development, specifically nanoparticle-amplified immunoassays, resulting in 3 1st-author published papers and 7 1st-author presentations; enhanced industry knowledge and advanced scientific understanding through impactful contributions
+- Spearheaded the development of two innovative immunoassay approaches, quantifying small molecules to large molecules, leading to the publication of 3 1st-author manuscripts, showcasing collaborative leadership in research projects
+- Presented 7 research projects at the conferences, earning the Honorable Mentioned Student Award in the Environmental Sensors Session of the American Institute of Chemical Engineers (AIChE) 2020 annual meeting, showcasing expertise in innovative sensor technologies and chemical engineering advancements
 
 ### The Garden of NaturalSolution – Osan, Korea 
 <div style="text-align: right"> August 2016 – March 2018 </div>
 <div style="text-align: right"> <i>Research Scientist</i> </div>
 
 - **Two related Korean patents**
-    - Developed unique fermentation processes for natural ingredients, leading to a 20 – 30 % boost in
-    product potency and a 10 – 15 % improvement in customer satisfaction for cosmetic companies
-    seeking enhanced skincare solutions
-    - Orchestrated cross-departmental collaboration between marketing and manufacturing teams to
-    execute dissertation projects, developing and launching over 50 innovative fermented products,
-    diversifying the company's product portfolio, and increasing market share
-    - Performed simple human clinical product tests, creating 50+ comprehensive reports for clients,
-    empowering data-driven decision-making, and improving customer confidence in product
-    efficacy and safety
-    - Developed novel fermented products in microbiology research, resulting in the launch of two
-    new products that increased company revenue
-    - Revised and updated SDSs, SOPs, and quality control (QC) guidelines for fermented products by
-    leading cross-functional research projects to collaborate with various teams including QC and
-    manufacturing teams, ensuring compliance with industry standards and regulations, contributing
-    to the first export to overseas customers
-    - Completed the generation of 50+ reports outlining microorganism assay results for clients,
-    securing 2 Korean patents; pivotal in facilitating strategic decision-making and driving
-    intellectual property advancement in the industry landscape
+- Developed unique fermentation processes for natural ingredients, leading to a 20 – 30 % boost in
+product potency and a 10 – 15 % improvement in customer satisfaction for cosmetic companies
+seeking enhanced skincare solutions
+- Orchestrated cross-departmental collaboration between marketing and manufacturing teams to
+execute dissertation projects, developing and launching over 50 innovative fermented products,
+diversifying the company's product portfolio, and increasing market share
+- Performed simple human clinical product tests, creating 50+ comprehensive reports for clients,
+empowering data-driven decision-making, and improving customer confidence in product
+efficacy and safety
+- Developed novel fermented products in microbiology research, resulting in the launch of two
+new products that increased company revenue
+- Revised and updated SDSs, SOPs, and quality control (QC) guidelines for fermented products by
+leading cross-functional research projects to collaborate with various teams including QC and
+manufacturing teams, ensuring compliance with industry standards and regulations, contributing
+to the first export to overseas customers
+- Completed the generation of 50+ reports outlining microorganism assay results for clients,
+securing 2 Korean patents; pivotal in facilitating strategic decision-making and driving
+intellectual property advancement in the industry landscape
 
 ### Seoul National University – Seoul, Korea 
 <div style="text-align: right"> January 2014 – February 2016 </div>
