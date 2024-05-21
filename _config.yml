@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "LCATS"
+title                    : "Eunice Kwon, Ph.D."
 title_separator          : "-"
-name                     : "Dr. Stephanie Kwon"
-description              : "Assistant Professor. Department of Chemical and Biological Engineering"
+name                     : "Eunice Kwon, Ph.D."
+description              : "Postdoctoral Fellow"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -58,7 +58,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : true # true, false (default)
+search                   : false # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -100,14 +100,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Stephanie Kwon"
-  avatar           : "/assets/images/people/Skwon_profile_01232020.png" #"http://www.iec.northwestern.edu/images/People/stephanie_sm.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : >
-    Assistant Professor  
+  name             : "Eunice Kwon, Ph.D."
+  avatar           : "/assets/images/people/eunice_kwon_profile_may2024_square.png"
+  bio              : > 
+    Postdoctoral Fellow  
     <br>
-    Department of Chemical and Biological Engineering
-  location         : "Colorado School of Mines"
-  email            : "kwon@mines.edu"
+    Department of Bioengineering
+  location         : "University of Washington"
+  email            : "eunicek2468@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -122,7 +122,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : eunice-kb2468 #"john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
@@ -132,7 +132,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : # ""
 
 
 # Reading Files
@@ -199,7 +199,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 0 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -263,17 +263,17 @@ compress_html:
 # Defaults
 defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      classes: wide
-      author_profile: false
-      read_time: true
-      comments: true
-      share: true
-      related: true
+  # - scope:
+  #     path: ""
+  #     type: posts
+  #   values:
+  #     layout: single
+  #     classes: wide
+  #     author_profile: false
+  #     read_time: true
+  #     comments: true
+  #     share: true
+  #     related: true
 
   # _pages
   - scope:
@@ -282,4 +282,4 @@ defaults:
     values:
       layout: single
       classes: wide
-      author_profile: false
+      author_profile: true
